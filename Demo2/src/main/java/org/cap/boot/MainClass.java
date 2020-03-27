@@ -7,5 +7,6 @@ import org.cap.model.Salesclass;
 	{
 		Salesclass sc=new Salesclass();
 		sc.println();
+		
 	}
 }
