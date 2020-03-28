@@ -6,7 +6,7 @@ public class Sample {
 	
  void A() {
 	System.out.println("Love u Amma");
-	System.out.println(+m);
+	System.out.println(m);
 	
 	
 }
